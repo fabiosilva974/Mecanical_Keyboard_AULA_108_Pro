@@ -1,0 +1,8 @@
+# Ignore executables
+*.exe
+
+# Ignore markdown files specific to fjorge
+configuracao_aula_fjorge.md
+configuracao_aula_fjorge_en.md
+aula_f108_pro_linux_setup_en.md
+tutorial_teclado_aula.md
