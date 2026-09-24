@@ -10,6 +10,10 @@
 >
 > *(O guia legado de configuração via Wine está preservado abaixo para referência).*
 
+<p align="center">
+  <img src="f108-pro-gui/docs/images/gui_preview.png" alt="Interface Gráfica Linux AULA F108 Pro" width="850">
+</p>
+
 Este repositório fornece ferramentas, drivers e guias passo a passo sobre como configurar o teclado mecânico **AULA F108 Pro** no Linux de forma nativa ou via Wine.
 
 O teclado AULA F108 Pro é normalmente identificado pelo sistema como `Bus XXX Device YYY: ID 0c45:800a Microdia Vivitar Vivicam3350B` no `lsusb`.

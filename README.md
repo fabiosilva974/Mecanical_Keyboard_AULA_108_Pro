@@ -10,6 +10,10 @@
 >
 > *(The legacy Wine setup guide is preserved below for reference).*
 
+<p align="center">
+  <img src="f108-pro-gui/docs/images/gui_preview.png" alt="AULA F108 Pro Linux GUI Interface" width="850">
+</p>
+
 This repository provides tools, drivers, and guides to configure the **AULA F108 Pro** mechanical keyboard on Linux natively or via Wine.
 
 The AULA F108 Pro keyboard is usually identified by the system as `Bus XXX Device YYY: ID 0c45:800a Microdia Vivitar Vivicam3350B` in `lsusb`.

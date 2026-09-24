@@ -4,6 +4,10 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Driver: Rust / Go](https://img.shields.io/badge/Driver-Rust%20%7C%20Go-orange.svg)](#interoperability)
 
+<p align="center">
+  <img src="docs/images/gui_preview.png" alt="AULA F108 Pro Linux GUI Interface" width="850">
+</p>
+
 > **English** & **Português** documentation below.
 
 ---
