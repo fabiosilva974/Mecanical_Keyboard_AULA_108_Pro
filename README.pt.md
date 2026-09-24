@@ -1,8 +1,16 @@
 # Teclado Mecânico AULA F108 Pro - Configuração no Linux
 
 [![English](https://img.shields.io/badge/English-README.md-blue)](README.md)
+[![Interface Gráfica Linux](https://img.shields.io/badge/GUI-f108--pro--gui-purple.svg)](f108-pro-gui)
+[![Driver em Rust](https://img.shields.io/badge/Driver-Rust%20CLI-orange.svg)](f108-pro-rust)
 
-Este repositório fornece um guia passo a passo sobre como configurar o teclado mecânico **AULA F108 Pro** no Linux e fazer o software oficial funcionar via Wine.
+> 🚀 **NOVIDADE: Suíte Nativa para Linux (Sem necessidade de Wine!)**
+> - **[Interface Gráfica Nativa (`f108-pro-gui`)](f108-pro-gui)**: Interface moderna em WebKitGTK, canvas interativo de 104 teclas, compositor de comandos CLI retrátil em tempo real, 20 modos RGB, pintura por tecla e gerenciador do visor TFT LCD.
+> - **[Driver Nativo em Rust (`f108-pro-rust`)](f108-pro-rust)**: Driver CLI independente de alta performance para Linux com suporte a USB HID e envio de imagens para o visor TFT LCD.
+>
+> *(O guia legado de configuração via Wine está preservado abaixo para referência).*
+
+Este repositório fornece ferramentas, drivers e guias passo a passo sobre como configurar o teclado mecânico **AULA F108 Pro** no Linux de forma nativa ou via Wine.
 
 O teclado AULA F108 Pro é normalmente identificado pelo sistema como `Bus XXX Device YYY: ID 0c45:800a Microdia Vivitar Vivicam3350B` no `lsusb`.
 

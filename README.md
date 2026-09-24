@@ -1,8 +1,16 @@
 # AULA F108 Pro Mechanical Keyboard - Linux Configuration
 
 [![Português](https://img.shields.io/badge/Portugu%C3%AAs-README.pt.md-green)](README.pt.md)
+[![Native Linux GUI](https://img.shields.io/badge/GUI-f108--pro--gui-purple.svg)](f108-pro-gui)
+[![Rust Driver](https://img.shields.io/badge/Driver-Rust%20CLI-orange.svg)](f108-pro-rust)
 
-This repository provides a step-by-step guide on how to configure the **AULA F108 Pro** mechanical keyboard on Linux and get the official software working via Wine.
+> 🚀 **NEW: Native Linux Suite (No Wine required!)**
+> - **[AULA F108 Pro Native GUI (`f108-pro-gui`)](f108-pro-gui)**: Modern WebKitGTK interface, interactive 104-key canvas, real-time collapsible CLI composer, 20 lighting modes, per-key RGB, and TFT LCD screen manager.
+> - **[AULA F108 Pro Rust Driver (`f108-pro-rust`)](f108-pro-rust)**: High-performance, zero-overhead standalone Linux CLI driver with USB HID & TFT LCD support.
+>
+> *(The legacy Wine setup guide is preserved below for reference).*
+
+This repository provides tools, drivers, and guides to configure the **AULA F108 Pro** mechanical keyboard on Linux natively or via Wine.
 
 The AULA F108 Pro keyboard is usually identified by the system as `Bus XXX Device YYY: ID 0c45:800a Microdia Vivitar Vivicam3350B` in `lsusb`.
 
